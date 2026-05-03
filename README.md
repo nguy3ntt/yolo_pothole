@@ -1,6 +1,5 @@
 # YOLO Pothole Detection
-
-An end-to-end YOLO object detection project for pothole detection, covering detection fundamentals, annotation conversion, training, evaluation, and inference
+Author: Tin Trung Nguyen
 
 ## Project Goal
 
